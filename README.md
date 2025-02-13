@@ -39,19 +39,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical" height="180px"/>
   <img src="https://streak-stats.demolab.com/?user=shiva-yadav-ds&theme=radical" height="180px"/>
-
-
 </p>
 
 ### 🔥 **GitHub Contributions**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ### 🎯 **Top Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
