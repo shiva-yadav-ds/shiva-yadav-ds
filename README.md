@@ -40,9 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Daily_Streak-🔥_Check_Your_Stats-red?style=for-the-badge&logo=github" height="50px"/>
-</p>
+
 
 ### 🔥 **GitHub Contributions**
 <p align="center">
