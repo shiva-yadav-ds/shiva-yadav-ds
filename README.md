@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shiva-yadav-ds&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical" height="180px"/>
 </p>
 
 
