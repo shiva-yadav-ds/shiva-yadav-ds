@@ -41,9 +41,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical" height="180px"/>
+  <img src="https://img.shields.io/badge/Daily_Streak-🔥_Check_Your_Stats-red?style=for-the-badge&logo=github" height="50px"/>
 </p>
-
 
 ### 🔥 **GitHub Contributions**
 <p align="center">
