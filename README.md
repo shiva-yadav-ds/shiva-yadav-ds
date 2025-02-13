@@ -37,15 +37,13 @@
 
 ## 🚀 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true" height="180px"/>
   <img src="https://streak-stats.demolab.com/?user=shiva-yadav-ds&theme=radical" height="180px"/>
 </p>
 
 ### 🔥 **GitHub Contributions**
 <p align="center">
-  <a href="https://github.com/shiva-yadav-ds">
-    <img src="https://github-contributor-stats.vercel.app/api?username=shiva-yadav-ds&theme=radical" alt="GitHub Contributions Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ### 🎯 **Top Used Languages**
