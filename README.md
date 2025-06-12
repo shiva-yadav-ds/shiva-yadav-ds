@@ -1,33 +1,30 @@
 <h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
-  Hi, I'm Shiva Yadav! 🚀 
+  👋 Hi, I'm <strong>Shiva Yadav</strong> 🚀
 </h1>
 
 <p align="center">
   <a href="https://shivayadav.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=Firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/shiva-yadav-ds">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0003-8089-3848">
-    <img src="https://img.shields.io/badge/ORCID-%23006F3C.svg?style=for-the-badge&logo=orcid&logoColor=white" />
+    <img src="https://img.shields.io/badge/ORCID-006F3C?style=flat-square&logo=orcid&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/shiva.datascience">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@noisegaming678">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  👁️‍🗨️ <strong>Profile Views:</strong> <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&label=👁‍🗨%20Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
