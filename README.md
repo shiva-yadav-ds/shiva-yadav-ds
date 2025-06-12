@@ -59,24 +59,30 @@ graph LR
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=nord&no-frame=true&row=2&column=4&margin-w=15" alt="Trophies">	<img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" height="165">
 </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=blueberry&hide_border=true&fire=0EA5E9" alt="Streak Stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=blueberry&hide_border=true" alt="Top Langs" width="45.5%"/> </div>
+
 🛠️ Tech Stack
-🔬 Data Science
-https://img.shields.io/badge/-Python-0F172A?logo=python&logoColor=38BDF8
-https://img.shields.io/badge/-TensorFlow-0F172A?logo=tensorflow
-https://img.shields.io/badge/-PyTorch-0F172A?logo=pytorch
-https://img.shields.io/badge/-Scikit_Learn-0F172A?logo=scikitlearn
 
-💻 Development
-https://img.shields.io/badge/-React-0F172A?logo=react
-https://img.shields.io/badge/-Node.js-0F172A?logo=nodedotjs
-https://img.shields.io/badge/-MongoDB-0F172A?logo=mongodb
-https://img.shields.io/badge/-MySQL-0F172A?logo=mysql
+<div align="center">
+  
+  <!-- Data Science Tools -->
+  <img src="https://img.shields.io/badge/-Python-0F172A?logo=python&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/-TensorFlow-0F172A?logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/-PyTorch-0F172A?logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/-Scikit_Learn-0F172A?logo=scikitlearn&logoColor=F7931E" />
 
-⚙️ Tools
-https://img.shields.io/badge/-Git-0F172A?logo=git
-https://img.shields.io/badge/-Docker-0F172A?logo=docker
-https://img.shields.io/badge/-Linux-0F172A?logo=linux
-https://img.shields.io/badge/-Jupyter-0F172A?logo=jupyter
+  <!-- Development Tools -->
+  <img src="https://img.shields.io/badge/-React-0F172A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-0F172A?logo=nodedotjs&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/-MongoDB-0F172A?logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/-MySQL-0F172A?logo=mysql&logoColor=4479A1" />
+
+  <!-- Other Tools -->
+  <img src="https://img.shields.io/badge/-Git-0F172A?logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-Docker-0F172A?logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/-Linux-0F172A?logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/-Jupyter-0F172A?logo=jupyter&logoColor=F37626" />
+
+</div>
 
 🌐 Connect With Me
 <p align="center"> <a href="mailto:yaduvanshishubha678@gmail.com"> <img src="https://img.shields.io/badge/Email-0F172A?style=flat&logo=gmail&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://shivayadav.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://www.youtube.com/@noisegaming678"> <img src="https://img.shields.io/badge/YouTube-0F172A?style=flat&logo=youtube&logoColor=FF0000&labelColor=0F172A" height="28"/> </a> <a href="https://www.kaggle.com/shivayadavds"> <img src="https://img.shields.io/badge/Kaggle-0F172A?style=flat&logo=kaggle&logoColor=20BEFF&labelColor=0F172A" height="28"/> </a> </p><div align="center" style="margin-top:30px"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Inspirational Quote"/> </div> ```
