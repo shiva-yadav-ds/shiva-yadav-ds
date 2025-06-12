@@ -26,86 +26,95 @@
 
 ---
 
-## 👨‍💻 **About Me**  
-🎓 Pursuing **Data Science & Applications** at **IIT Madras**  
-💻 Passionate about **AI, Machine Learning, and Deep Learning**  
-🛠️ Currently building **a Jarvis-like AI Assistant**  
-🔬 Researching **Parkinson's Disease Risk Assessment**  
-🏆 Skilled in **Python, Pandas, NumPy, Scikit-Learn, TensorFlow**
+<p align="center">
+  👁️‍🗨️ <strong>Profile Views:</strong> <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&style=flat-square&color=blue" alt="profile views"/>
+</p>
 
 ---
 
-## 🏆 **GitHub Achievements**
+## 👨‍💻 About Me
 
-- 🧠 **Rainbow Lang User** (Used multiple languages like Python, HTML, Jupyter)
-- 👨‍💻 **Middle Committer** (72 commits in 2025)
-- 📁 **Middle Repo Creator** (Created 17 repositories)
-- 🚀 **Junior Developer** (Actively contributing to GitHub since May 2023)
-- 🤝 **First Pull Request Merged**
-- 🌍 **First Friend on GitHub**
-- 🧪 **Languages Used**:
-  - Python (69.25%) 🐍
-  - Jupyter Notebook (23.88%) 📓
-  - HTML (6.46%) 🌐
+🎓 Student at **IIT Madras** – Data Science & Applications  
+🧠 Exploring **AI**, **ML**, **DL**  
+🤖 Building my own **Jarvis-like Assistant**  
+🧬 Researching **Parkinson’s Disease Prediction**  
+📊 Skilled in **Python**, **Pandas**, **Numpy**, **Scikit-Learn**, **TensorFlow**
 
 ---
 
-## 🚀 **GitHub Stats & Activity**
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rainbow%20Lang%20User-12pt-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Middle%20Committer-72pt-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Middle%20Repo%20Creator-17pt-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Junior%20Dev-7pt-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/First%20Friend-4pt-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/First%20Pull%20Request-2pt-lightgrey?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true" height="180px"/>
 </p>
 
-### 🔥 **GitHub Contributions**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark" />
 </p>
 
-### 🎯 **Top Used Languages**
+---
+
+## 🌟 Profile Summary
+
+- 🔢 **Total Contributions**: 178  
+- 🔥 **Current Streak**: 2 days (Jun 11 - Jun 12)  
+- 🥇 **Longest Streak**: 3 days (May 21 - May 23)  
+- 💬 **Total PRs**: 2  
+- ❌ **Total Issues**: 0  
+- ⭐ **Stars Earned**: 0  
+- 🧑‍💻 **Contributed to**: 2 repos in the last year
+
+---
+
+## 📚 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical" />
 </p>
 
----
-
-## 📊 **Contribution Overview**
-
-- 📅 **Joined GitHub:** May 2023  
-- 🧾 **Total Contributions:** 178  
-- 🔥 **Current Streak:** 2 Days (Jun 11 - Jun 12)  
-- 🥇 **Longest Streak:** 3 Days (May 21 - May 23)  
-- 🔁 **Total PRs:** 2  
-- 🧵 **Total Issues:** 0  
-- ⭐ **Stars Earned:** 0  
-- 💼 **Contributed to (last year):** 2 projects
+- 🐍 Python: 69.25%  
+- 📓 Jupyter Notebook: 23.88%  
+- 🌐 HTML: 6.46%
 
 ---
 
-## ⚡ **Tech Stack & Tools**  
+## 🛠️ Tech Stack
+
 <p align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50px" title="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50px" title="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50px" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50px" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50px" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50px" title="Jupyter Notebook"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="90px" title="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="ReactJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" />
 </p>
 
 ---
 
-## 🎬 **Latest YouTube Videos**
+## 🎬 YouTube Videos
+
 <!-- YOUTUBE:START -->
 - 🎥 [How to Build an AI Assistant Like JARVIS?](https://www.youtube.com/@noisegaming678)
 - 🎥 [Python ML Project - Predicting Parkinson’s Disease](https://www.youtube.com/@noisegaming678)
@@ -113,12 +122,11 @@
 
 ---
 
-## 📬 **How to Reach Me?**
-📩 **Email:** yaduvanshishubha678@gmail.com    
-🌍 **Website:** [shivayadav.netlify.app](https://shivayadav.netlify.app/)  
+## 📬 Contact Me
+
+📧 **Email:** yaduvanshishubha678@gmail.com  
+🌐 **Portfolio:** [shivayadav.netlify.app](https://shivayadav.netlify.app/)  
 
 ---
 
-<h3 align="center">
-  🔥 "The best way to predict the future is to create it!" 🔥
-</h3>
+<h3 align="center">🔥 "The best way to predict the future is to create it!" 🔥</h3>
