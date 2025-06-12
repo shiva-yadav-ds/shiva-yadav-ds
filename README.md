@@ -31,7 +31,22 @@
 💻 Passionate about **AI, Machine Learning, and Deep Learning**  
 🛠️ Currently building **a Jarvis-like AI Assistant**  
 🔬 Researching **Parkinson's Disease Risk Assessment**  
-🏆 Experienced in **Python, Pandas, NumPy, Scikit-Learn, TensorFlow**  
+🏆 Skilled in **Python, Pandas, NumPy, Scikit-Learn, TensorFlow**
+
+---
+
+## 🏆 **GitHub Achievements**
+
+- 🧠 **Rainbow Lang User** (Used multiple languages like Python, HTML, Jupyter)
+- 👨‍💻 **Middle Committer** (72 commits in 2025)
+- 📁 **Middle Repo Creator** (Created 17 repositories)
+- 🚀 **Junior Developer** (Actively contributing to GitHub since May 2023)
+- 🤝 **First Pull Request Merged**
+- 🌍 **First Friend on GitHub**
+- 🧪 **Languages Used**:
+  - Python (69.25%) 🐍
+  - Jupyter Notebook (23.88%) 📓
+  - HTML (6.46%) 🌐
 
 ---
 
@@ -39,8 +54,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true" height="180px"/>
 </p>
-
-
 
 ### 🔥 **GitHub Contributions**
 <p align="center">
@@ -51,6 +64,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 📊 **Contribution Overview**
+
+- 📅 **Joined GitHub:** May 2023  
+- 🧾 **Total Contributions:** 178  
+- 🔥 **Current Streak:** 2 Days (Jun 11 - Jun 12)  
+- 🥇 **Longest Streak:** 3 Days (May 21 - May 23)  
+- 🔁 **Total PRs:** 2  
+- 🧵 **Total Issues:** 0  
+- ⭐ **Stars Earned:** 0  
+- 💼 **Contributed to (last year):** 2 projects
 
 ---
 
@@ -87,7 +113,7 @@
 
 ---
 
-## 🎯 **How to Reach Me?**
+## 📬 **How to Reach Me?**
 📩 **Email:** yaduvanshishubha678@gmail.com    
 🌍 **Website:** [shivayadav.netlify.app](https://shivayadav.netlify.app/)  
 
