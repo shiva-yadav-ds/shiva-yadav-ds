@@ -27,19 +27,15 @@
 
 <!-- Fixed view counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&label=\ud83d\udc41\u200d\ud83d\udd26%20Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&label=👁‍🗨%20Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Fixed snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/snake-light.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/snake-light.svg" width="100%" />
-</picture>
+<!-- Fixed snake animation with dynamic colors -->
+<img src="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
-## \ud83d\udd2e About Me
+## 🔍 About Me
 
 ```mermaid
 graph TD
@@ -48,71 +44,25 @@ graph TD
     B --> D[Machine Learning]
     B --> E[Deep Learning]
     C --> F[Jarvis-like Assistant]
-    D --> G[Parkinson\u2019s Prediction]
+    D --> G[Parkinson's Prediction]
     E --> H[Neural Networks]
 ```
 
-\ud83c\udf93 Student at IIT Madras - Data Science & Applications
+🎓 Student at IIT Madras - Data Science & Applications
 
-\ud83e\udd16 Building AI Assistant (Jarvis-like)
+🤖 Building AI Assistant (Jarvis-like)
 
-\ud83e\udde0 Researching Parkinson's Disease Prediction
+🧠 Researching Parkinson's Disease Prediction
 
-\ud83d\udcca Proficient in Python, TensorFlow, Scikit-Learn
+📊 Proficient in Python, TensorFlow, Scikit-Learn
 
-\ud83e\uddea Exploring Bioinformatics & Health Tech
+🧬 Exploring Bioinformatics & Health Tech
 
-## \ud83d\ude80 GitHub Highlights
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-## \ud83d\udcca Dynamic Stats
-<div align="center">
-  <a href="https://github.com/shiva-yadav-ds">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical&hide_border=true" />
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%">
-</div>
-
-## \u26a1 Tech Stack & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50px" title="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50px" title="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50px" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50px" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50px" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50px" title="Jupyter Notebook"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="90px" title="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="ReactJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" title="Linux"/>
-</p>
-
-## \ud83d\udce8 Let's Connect
-<p align="center">
-  <a href="mailto:yaduvanshishubha678@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://shivayadav.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=Firefox&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
-</div>
+🏆 GitHub Highlights
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </div>
+📊 Dynamic Stats
+<div align="center"> <a href="https://github.com/shiva-yadav-ds"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical&hide_border=true" /> </a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"> </div>
+⚡ Tech Stack & Tools
+<!-- Dark-mode optimized icons --><p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,sklearn,jupyter&theme=dark" /> <br> <img src="https://skillicons.dev/icons?i=git,github,linux,mongodb,mysql,html,js,react,nextjs&theme=dark" /> </p>
+📬 Let's Connect
+<p align="center"> <a href="mailto:yaduvanshishubha678@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://shivayadav.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=Firefox&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p><div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" /> </div> ```
