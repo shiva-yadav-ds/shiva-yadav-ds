@@ -74,6 +74,10 @@ graph LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=blueberry&hide_border=true&fire=0EA5E9&background=0F172A&stroke=1F2937" width="75%" alt="GitHub Streak" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
