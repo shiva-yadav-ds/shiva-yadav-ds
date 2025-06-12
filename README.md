@@ -62,8 +62,14 @@ graph TD
 <div align="center"><!-- Fixed achievement badges --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </p></div>
 📊 Dynamic Stats
 <div align="center"><!-- Fixed stats with proper theming --><a href="https://github.com/shiva-yadav-ds"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical&hide_border=true" /> </a><!-- Fixed streak stats --><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" /><!-- Fixed activity graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"></div>
-🧰 Tech Stack
-<!-- Fixed icons for dark mode --><p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,sklearn,jupyter&theme=dark" /> <br> <img src="https://skillicons.dev/icons?i=git,github,linux,mongodb,mysql,html,js,react,nextjs&theme=dark" /> </p>
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,sklearn,jupyter&theme=light" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mongodb,mysql,html,js,react,nextjs&theme=light" />
+</p>
+
 🎥 YouTube Content
 <!-- Fixed YouTube cards --><div align="center"> <a href="https://www.youtube.com/@noisegaming678"> <img src="https://ytcards.demolab.com/?id=@noisegaming678&title=My+YouTube+Channel&lang=en&background_color=0d1117&title_color=22D3EE&stats_color=79ff97&width=250" alt="YouTube Channel" /> </a> <a href="https://youtube.com/shorts/..."> <img src="https://ytcards.demolab.com/?id=...&title=Building+JARVIS+AI&lang=en&background_color=0d1117&title_color=22D3EE&stats_color=79ff97&width=250" alt="Video 1" /> </a> <a href="https://youtube.com/shorts/..."> <img src="https://ytcards.demolab.com/?id=...&title=Parkinson's+Prediction&lang=en&background_color=0d1117&title_color=22D3EE&stats_color=79ff97&width=250" alt="Video 2" /> </a> </div>
 📬 Let's Connect
