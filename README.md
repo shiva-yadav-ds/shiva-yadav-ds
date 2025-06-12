@@ -46,3 +46,25 @@ graph TD
     C --> F[Jarvis-like Assistant]
     D --> G[Parkinson’s Prediction]
     E --> H[Neural Networks]
+```
+
+🎓 Student at IIT Madras - Data Science & Applications
+
+🤖 Building AI Assistant (Jarvis-like)
+
+🧠 Researching Parkinson's Disease Prediction
+
+📊 Proficient in Python, TensorFlow, Scikit-Learn
+
+🧬 Exploring Bioinformatics & Health Tech
+
+🚀 GitHub Highlights
+<div align="center"><!-- Animated achievement badges --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </p></div>
+📊 Dynamic Stats
+<div align="center"><!-- Animated stats grid --><a href="https://github.com/shiva-yadav-ds"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0d1117&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" /> </a><!-- Streak stats with fire animation --><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical&background=0d1117&hide_border=true&fire=DD2727" alt="GitHub Streak" /><!-- Activity graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity Graph" width="100%"></div>
+🧰 Tech Stack
+<!-- Animated tech stack with hover effects --><p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,sklearn,jupyter&theme=dark" /> <br> <img src="https://skillicons.dev/icons?i=git,github,linux,mongodb,mysql,html,js,react,nextjs&theme=dark" /> </p>
+🎥 Latest YouTube Content
+<!-- Dynamic YouTube cards --><div align="center"> <a href="https://www.youtube.com/@noisegaming678"> <img src="https://ytcards.demolab.com/?id=CHANNEL_ID&title=My+YouTube+Channel&lang=en&background_color=0d1117&title_color=58a6ff&stats_color=79ff97&width=250" alt="YouTube Channel" /> </a> <a href="https://youtu.be/VIDEO_ID_1"> <img src="https://ytcards.demolab.com/?id=VIDEO_ID_1&title=Building+JARVIS+AI&lang=en&background_color=0d1117&title_color=58a6ff&stats_color=79ff97&width=250" alt="Video 1" /> </a> <a href="https://youtu.be/VIDEO_ID_2"> <img src="https://ytcards.demolab.com/?id=VIDEO_ID_2&title=Parkinson's+Prediction&lang=en&background_color=0d1117&title_color=58a6ff&stats_color=79ff97&width=250" alt="Video 2" /> </a> </div>
+📬 Let's Connect
+<p align="center"> <a href="mailto:yaduvanshishubha678@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://shivayadav.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=Firefox&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p><div align="center"><!-- Animated quote --><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" /></div> ```
