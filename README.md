@@ -30,11 +30,6 @@
   <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&label=Profile%20Views&color=0EA5E9&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Gradient snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-</div>
-
 </div>
 
 ## 🚀 About Me
