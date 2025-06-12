@@ -62,7 +62,8 @@ graph TD
 <div align="center"><!-- Fixed achievement badges --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </p></div>
 📊 Dynamic Stats
 <div align="center"><!-- Fixed stats with proper theming --><a href="https://github.com/shiva-yadav-ds"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical&hide_border=true" /> </a><!-- Fixed streak stats --><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" /><!-- Fixed activity graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"></div>
-## ⚡ **Tech Stack & Tools**  
+
+## ⚡ Tech Stack & Tools  
 <p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50px" title="TensorFlow"/>
