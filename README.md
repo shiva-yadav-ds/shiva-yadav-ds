@@ -95,5 +95,4 @@ graph LR
     <em>"Dream is not that which you see while sleeping, it is something that does not let you sleep."</em><br>
     — Dr. A.P.J. Abdul Kalam
   </blockquote>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Inspirational Quote"/>
 </div>
