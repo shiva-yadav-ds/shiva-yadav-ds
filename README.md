@@ -27,15 +27,19 @@
 
 <!-- Fixed view counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&label=👁‍🗨%20Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&label=\ud83d\udc41\u200d\ud83d\udd26%20Profile%20Views&color=22D3EE&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- Fixed snake animation -->
-<img src="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/snake.svg" alt="Snake animation" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/snake-light.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/shiva-yadav-ds/shiva-yadav-ds/output/snake-light.svg" width="100%" />
+</picture>
 
 </div>
 
-## 🔮 About Me
+## \ud83d\udd2e About Me
 
 ```mermaid
 graph TD
@@ -44,27 +48,37 @@ graph TD
     B --> D[Machine Learning]
     B --> E[Deep Learning]
     C --> F[Jarvis-like Assistant]
-    D --> G[Parkinson’s Prediction]
+    D --> G[Parkinson\u2019s Prediction]
     E --> H[Neural Networks]
 ```
 
-🎓 Student at IIT Madras - Data Science & Applications
+\ud83c\udf93 Student at IIT Madras - Data Science & Applications
 
-🤖 Building AI Assistant (Jarvis-like)
+\ud83e\udd16 Building AI Assistant (Jarvis-like)
 
-🧠 Researching Parkinson's Disease Prediction
+\ud83e\udde0 Researching Parkinson's Disease Prediction
 
-📊 Proficient in Python, TensorFlow, Scikit-Learn
+\ud83d\udcca Proficient in Python, TensorFlow, Scikit-Learn
 
-🧬 Exploring Bioinformatics & Health Tech
+\ud83e\uddea Exploring Bioinformatics & Health Tech
 
-🚀 GitHub Highlights
-<div align="center"><!-- Fixed achievement badges --><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </p></div>
-📊 Dynamic Stats
-<div align="center"><!-- Fixed stats with proper theming --><a href="https://github.com/shiva-yadav-ds"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical&hide_border=true" /> </a><!-- Fixed streak stats --><img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" /><!-- Fixed activity graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"></div>
+## \ud83d\ude80 GitHub Highlights
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
-## ⚡ Tech Stack & Tools  
-<p align="center">  
+## \ud83d\udcca Dynamic Stats
+<div align="center">
+  <a href="https://github.com/shiva-yadav-ds">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=radical&hide_border=true" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=radical&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%">
+</div>
+
+## \u26a1 Tech Stack & Tools
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50px" title="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="50px" title="PyTorch"/>
@@ -86,7 +100,19 @@ graph TD
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" title="Linux"/>
 </p>
 
-🎥 YouTube Content
-<!-- Fixed YouTube cards --><div align="center"> <a href="https://www.youtube.com/@noisegaming678"> <img src="https://ytcards.demolab.com/?id=@noisegaming678&title=My+YouTube+Channel&lang=en&background_color=0d1117&title_color=22D3EE&stats_color=79ff97&width=250" alt="YouTube Channel" /> </a> <a href="https://youtube.com/shorts/..."> <img src="https://ytcards.demolab.com/?id=...&title=Building+JARVIS+AI&lang=en&background_color=0d1117&title_color=22D3EE&stats_color=79ff97&width=250" alt="Video 1" /> </a> <a href="https://youtube.com/shorts/..."> <img src="https://ytcards.demolab.com/?id=...&title=Parkinson's+Prediction&lang=en&background_color=0d1117&title_color=22D3EE&stats_color=79ff97&width=250" alt="Video 2" /> </a> </div>
-📬 Let's Connect
-<p align="center"> <a href="mailto:yaduvanshishubha678@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://shivayadav.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=Firefox&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p><div align="center"><!-- Fixed animated quote --><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" /></div> ```
+## \ud83d\udce8 Let's Connect
+<p align="center">
+  <a href="mailto:yaduvanshishubha678@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shivayadav.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
+</div>
