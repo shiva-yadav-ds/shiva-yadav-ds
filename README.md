@@ -57,12 +57,12 @@ graph LR
 
 
 ## 🔥 GitHub Highlights
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" height="165">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=nord&no-frame=true&row=2&column=4&margin-w=15" alt="Trophies">  <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" height="165">
 </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=blueberry&hide_border=true&fire=0EA5E9" alt="Streak Stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=blueberry&hide_border=true" alt="Top Langs" width="45.5%"/> </div>
+
 
 
 ## 🛠️ Tech Stack
