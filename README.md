@@ -55,14 +55,17 @@ graph LR
 
 🧬 Exploring bioinformatics & health tech applications
 
-🔥 GitHub Highlights
+
+## 🔥 GitHub Highlights
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" height="165">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shiva-yadav-ds&theme=nord&no-frame=true&row=2&column=4&margin-w=15" alt="Trophies">  <img src="https://github-readme-stats.vercel.app/api?username=shiva-yadav-ds&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" height="165">
 </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-yadav-ds&theme=blueberry&hide_border=true&fire=0EA5E9" alt="Streak Stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-yadav-ds&layout=compact&theme=blueberry&hide_border=true" alt="Top Langs" width="45.5%"/> </div>
 
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -86,7 +89,8 @@ graph LR
 
 </div>
 
-🌐 Connect With Me
+## 🌐 Connect With Me
+
 <p align="center"> <a href="mailto:yaduvanshishubha678@gmail.com"> <img src="https://img.shields.io/badge/Email-0F172A?style=flat&logo=gmail&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://shivayadav.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://www.youtube.com/@noisegaming678"> <img src="https://img.shields.io/badge/YouTube-0F172A?style=flat&logo=youtube&logoColor=FF0000&labelColor=0F172A" height="28"/> </a> <a href="https://www.kaggle.com/shivayadavds"> <img src="https://img.shields.io/badge/Kaggle-0F172A?style=flat&logo=kaggle&logoColor=20BEFF&labelColor=0F172A" height="28"/> </a> </p>
 
 <!-- Inspirational Indian Quote -->
