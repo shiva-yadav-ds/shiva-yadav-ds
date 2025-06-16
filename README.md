@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" alt="LinkedIn" />
   </a>
    <a href="https://x.com/shiva_yadav_ds" target="_blank">
-    <img src="https://img.shields.io/badge/x-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" alt="x" />
+    <img src="https://img.shields.io/badge/x-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" alt="X.com" />
   </a>
   <a href="https://github.com/shiva-yadav-ds" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="GitHub" />
