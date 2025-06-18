@@ -112,7 +112,6 @@ graph LR
 <!-- Inspirational Indian Quote -->
 <div align="center" style="margin-top:30px">
   <blockquote>
-    <em>"Dream is not that which you see while sleeping, it is something that does not let you sleep."</em><br>
-    — Dr. A.P.J. Abdul Kalam
+    <em>"An idiot admires complexity. A genius admires simplicity" – Terry A. Davis
   </blockquote>
 </div>
