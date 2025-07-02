@@ -1,4 +1,4 @@
-<div align="center">.
+<div align="center">
 
 <!-- Modern gradient typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shiva+Yadav;Data+Science+Student;AI+%7C+ML+%7C+DL+Enthusiast" alt="Typing Header" />
