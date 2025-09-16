@@ -35,7 +35,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```mermaid
 graph LR
@@ -59,7 +59,7 @@ graph LR
 🧬 Exploring bioinformatics & health tech applications
 
 
-## 🔥 GitHub Highlights
+## GitHub Highlights
 
 <div align="center" style="margin-bottom: 20px;">
   <!-- Stats cards in a single row -->
@@ -81,7 +81,7 @@ graph LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-yadav-ds&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -105,7 +105,7 @@ graph LR
 
 </div>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center"> <a href="mailto:yaduvanshishubha678@gmail.com"> <img src="https://img.shields.io/badge/Email-0F172A?style=flat&logo=gmail&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://shivayadav.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://www.linkedin.com/in/shiva-yadav-4043912b9/"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a> <a href="https://www.youtube.com/@noisegaming678"> <img src="https://img.shields.io/badge/YouTube-0F172A?style=flat&logo=youtube&logoColor=FF0000&labelColor=0F172A" height="28"/> </a> <a href="https://www.kaggle.com/shivayadavds"> <img src="https://img.shields.io/badge/Kaggle-0F172A?style=flat&logo=kaggle&logoColor=20BEFF&labelColor=0F172A" height="28"/> </a> </p>
 
