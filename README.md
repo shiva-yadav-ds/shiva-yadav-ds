@@ -29,9 +29,9 @@
 </div>
 
 <!-- Modern view counter -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiva-yadav-ds&label=Profile%20Views&color=0EA5E9&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 </div>
 
